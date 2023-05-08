@@ -1,0 +1,8 @@
+****Void-UI May r43 Changelog****
+
+* Update to May Security patch & Gapps
+* Allow disabling refresh rate lowering in battery saver
+* Various Performance optimizations
+* Reduce screenshot dismiss delay to 3 seconds
+* Add toggle for 3-button navbar inversion
+* Update Aperture to latest available version
